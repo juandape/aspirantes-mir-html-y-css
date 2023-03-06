@@ -1,3 +1,12 @@
+body{
+    background-color: rgb(174, 98, 71);
+}
+
 h1{
-    color: #009900;
+    color: #244324;
+    font-weight: bolder;
+}
+
+h2{
+    color: #244324   
 }
